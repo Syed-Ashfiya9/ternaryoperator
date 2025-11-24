@@ -1,0 +1,5 @@
+# Arrow Functions & Ternary Operator – Masai Assignment
+
+## a) Arrow Function isEven(n)
+```js
+const isEven = n => n % 2 === 0;
